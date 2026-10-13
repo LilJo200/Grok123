@@ -1,0 +1,6 @@
+{
+  "name": "Tesla Fleet & Crypto Sales",
+  "description": "Experience next-generation electric mobility. Custom vehicle configurator, real-time financing & crypto payment calculator, and seamless online booking system with Bitcoin, Ethereum, and digital currencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
